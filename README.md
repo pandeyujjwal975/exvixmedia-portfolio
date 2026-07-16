@@ -6,7 +6,7 @@
 
 Modern • Responsive • Fast • SEO Optimized
 
-<img src="assets/portfolio-cover.jpg" alt="Exvix Media Portfolio Preview" width="100%">
+<img src="assets/tt.jpg" alt="Exvix Media Portfolio Preview" width="100%">
 
 <br>
 
@@ -126,7 +126,7 @@ exvixmedia-portfolio/
 
 # 📸 Website Preview
 
-<img src="assets/portfolio-cover.jpg" width="100%" alt="Website Preview">
+<img src="assets/github-preview-img.png" width="100%" alt="Website Preview">
 
 ---
 
