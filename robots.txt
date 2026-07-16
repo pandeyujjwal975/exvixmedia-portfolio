@@ -1,0 +1,9 @@
+User-agent: *
+
+Allow: /
+
+Disallow: /assets/private/
+
+Disallow: /cgi-bin/
+
+Sitemap: https://www.exvixmedia.com/sitemap.xml
