@@ -6,7 +6,7 @@
 
 Modern • Responsive • Fast • SEO Optimized
 
-<img src="assets/hero-github-preview-img.png" alt="Exvix Media Portfolio Preview" width="100%">
+<img src="assets/github-preview-img.png" alt="Exvix Media Portfolio Preview" width="100%">
 
 <br>
 
